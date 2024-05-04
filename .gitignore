@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Ignore database file
+db.sqlite3
+
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# # Ignore migrations directory
+# */migrations/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
